@@ -1,4 +1,3 @@
-package com.bean.airecordmodule.ui.adapter
 
 import androidx.annotation.LayoutRes
 import androidx.recyclerview.widget.RecyclerView

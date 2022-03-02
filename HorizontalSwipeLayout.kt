@@ -1,4 +1,3 @@
-package com.bean.airecordmodule.ui.widget
 
 import android.animation.Animator
 import android.animation.ObjectAnimator
@@ -12,7 +11,6 @@ import androidx.core.animation.addListener
 import androidx.core.view.children
 import androidx.core.view.isNotEmpty
 import androidx.core.view.isVisible
-import com.bean.base.screen.utils.ScreenUtil
 import kotlin.math.abs
 import kotlin.math.max
 import kotlin.math.min

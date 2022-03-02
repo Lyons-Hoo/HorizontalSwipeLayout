@@ -2,8 +2,6 @@ package com.bean.airecordmodule.ui.adapter
 
 import androidx.annotation.LayoutRes
 import androidx.recyclerview.widget.RecyclerView
-import com.bean.airecordmodule.ui.widget.ExpandStateChangeAction
-import com.bean.airecordmodule.ui.widget.HorizontalSwipeLayout
 import com.chad.library.adapter.base.BaseQuickAdapter
 import com.chad.library.adapter.base.viewholder.BaseViewHolder
 
